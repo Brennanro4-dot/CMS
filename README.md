@@ -1,3 +1,9 @@
-#A Content Management System I have made using PHP, HTML, CSS.
+# Content Management System
 
-#Database tables can be found in db.sql
+A Content Management System I have made using PHP, HTML, CSS.
+
+## Database Table Installation
+
+```bash
+Sql can be found in db.sql
+```
