@@ -384,9 +384,9 @@ Geneva.bindPopup("<b>Geneva</b><br>I had one month training here for Akkademy!")
 var latlngParis= L.latLng(48.892052, 2.231413);
 var Paris = L.marker(latlngParis).addTo(map);
 Paris.bindPopup("<b>Paris</b><br>I worked here for almost a year with Akkademy!");
-var latlngPortlaoise= L.latLng(48.892052, 2.231413);
+var latlngPortlaoise= L.latLng(53.0328, -7.2988);
 var Portlaoise = L.marker(latlngPortlaoise).addTo(map);
-Portlaoise.bindPopup("<b>Paris</b><br>I have worked with Powerpoint Engineering Ltd for a year and a half!");
+Portlaoise.bindPopup("<b>Portlaoise</b><br>I have worked with Powerpoint Engineering Ltd for a year and a half!");
 
 
 </script>
